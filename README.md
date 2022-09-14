@@ -4,3 +4,4 @@ A collection of notebooks demonstrating basic Python language features and packa
 - [Comprehensions](Comprehensions.ipynb)
 - [Pattern matching](https://github.com/beNative/jupyter_examples/blob/7cdf087c9defe5fa0cc26159dd4f14b585f6600e/Pattern%20matching.ipynb)
 - [Rich showcase](Rich%20showcase.ipynb)
+ 
