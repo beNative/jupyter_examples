@@ -1,1 +1,1 @@
-# A collection of notebooks demonstrating basic language features and packages
+A collection of notebooks demonstrating basic Python language features and packages for personal reference.
